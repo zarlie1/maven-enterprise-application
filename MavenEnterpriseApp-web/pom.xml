@@ -20,8 +20,8 @@
 	<description>Maven Enterprise Project</description>
 
 	<organization>
-		<name>Mithun Technologies</name>
-		<url>http://mithuntechnologies.com/</url>
+		<name>Landmark Technologies</name>
+		<url>http://mylandmarktech.com/</url>
 	</organization>
 
 	<properties>
@@ -95,13 +95,13 @@
 	<distributionManagement>
 	    <repository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://localhost:8085/mithuntechnologies/repository/flipkart-releases/</url>
+	      <name>Landmark Technologies Releases Nexus Repository</name>
+	      <url>http://localhost:8085/landmarktechnologies/repository/flipkart-releases/</url>
 	    </repository>
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://localhost:8085/mithuntechnologies/repository/flipkart-snapshot/</url>
+	      <url>http://localhost:8085/landmarktechnologies/repository/flipkart-snapshot/</url>
 	    </snapshotRepository>
 	</distributionManagement>
 	
